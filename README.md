@@ -1,5 +1,5 @@
 # Project Title: Power BI Interactive Sales Dashboard for SuperStore Data
-## Dataset - <a href="C:\Users\Hp\Downloads\SuperStore Sales DataSet.xlsx">Dataset</a>
+## Dataset Used - <a href="https://github.com/MdShoaib31/SuperStore-Sales-Dashboard---PowerBi/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>
 
 ![Superstore_logo](https://github.com/user-attachments/assets/924348df-ae86-41e7-a473-3919dc48b577)
 
