@@ -1,4 +1,8 @@
 # Project Title: Power BI Interactive Sales Dashboard for SuperStore Data
+## Dataset - <a href="C:\Users\Hp\Downloads\SuperStore_Sales_Dataset.csv">Dataset</a>
+
+![Superstore_logo](https://github.com/user-attachments/assets/924348df-ae86-41e7-a473-3919dc48b577)
+
 ## Project Overview:
 I developed a comprehensive and visually compelling Power BI dashboard for a retail SuperStore dataset, offering detailed insights into sales, profit, shipping modes, regional performance, and forecasting. The dashboard is interactive and designed for strategic business decision-making across various departments.
 
