@@ -1,5 +1,5 @@
 # Project Title: Power BI Interactive Sales Dashboard for SuperStore Data
-## Dataset - <a href="C:\Users\Hp\Downloads\SuperStore_Sales_Dataset.csv">Dataset</a>
+## Dataset - <a href="C:\Users\Hp\Downloads\SuperStore Sales DataSet.xlsx">Dataset</a>
 
 ![Superstore_logo](https://github.com/user-attachments/assets/924348df-ae86-41e7-a473-3919dc48b577)
 
@@ -48,6 +48,12 @@ Profitability forecasting and anomaly detection
 Product-level profit and sales insights (e.g., Canon Copiers, HP Printers)
 
 Highlight on high-profit and underperforming products
+
+## Dashboard -
+Page 1 - ![Screenshot 2025-05-27 135827](https://github.com/user-attachments/assets/46d4f3be-e17e-494a-82ab-193341c36db4)
+Page 2 - ![Screenshot 2025-05-27 135842](https://github.com/user-attachments/assets/ad6340aa-85fa-40a8-9742-2403fc8c1f1d)
+Forcast -  ![Screenshot 2025-05-27 135858](https://github.com/user-attachments/assets/db4427be-82cb-4fc7-aaa1-0ac91759a3a2)
+    
 
 ## Tools & Techniques Used:
 Microsoft Power BI (DAX, Power Query)
